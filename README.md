@@ -1,4 +1,4 @@
-# covid-19-powerbi-vietnam-world
+# covid-19-powerbi
 
 Live Demo: https://app.powerbi.com/view?r=eyJrIjoiOWJhMzg1Y2YtMTc2My00NGNkLWJkNjQtYzAxMDEwNTA3NTBjIiwidCI6IjFhZjE3MWNiLWVjZWEtNDJiMS04OTBiLWI2OGY0ODlkMmQ2MyJ9
 
